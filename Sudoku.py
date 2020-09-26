@@ -5,6 +5,15 @@ from tkinter import messagebox
 import copy
 import random
 
+def func1():
+    pass
+
+def func2():
+    pass
+
+def func3():
+    pass
+
 #---------algorithm that will solve sudoku----------------------------------
 done = False
 def sudoku(row, col):
